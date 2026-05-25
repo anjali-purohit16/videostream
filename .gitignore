@@ -1,5 +1,4 @@
-config/app.php
-config/database.php
+
 public/uploads/videos/
 public/uploads/thumbnails/
 blog/

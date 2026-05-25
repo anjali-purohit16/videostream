@@ -686,7 +686,7 @@ git commit -m "docs: update README with WebSocket setup instructions"
 **Anjali Purohit**
 - Email: purohitanjali098@gmail.com
 - Project built: May 2026
-- Purpose: College final year project / portfolio
+- Purpose: Training-Project
 
 ---
 
