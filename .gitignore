@@ -1,0 +1,11 @@
+config/app.php
+config/database.php
+public/uploads/videos/
+public/uploads/thumbnails/
+blog/
+storage/sessions/
+vendor/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
