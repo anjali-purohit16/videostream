@@ -1,0 +1,392 @@
+# Copyright (C) 2025 5 Star Plugins
+# This file is distributed under the same license as the Featured Images in RSS for Mailchimp & More plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Images in RSS for Mailchimp & More 1.7\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/featured-images-for-rss\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-15T04:25:46+00:00\n"
+"PO-Revision-Date: 2025-10-15 04:59+0000\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: featured-images-for-rss-feeds\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu-HU\n"
+
+#: featured_images_in_rss.php
+#. Plugin Name of the plugin
+msgid "Featured Images in RSS for Mailchimp & More"
+msgstr "Kiemelt képek RSS-hez a Mailchimp & egyebek számára"
+
+#: featured_images_in_rss.php
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+msgstr "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+
+#: featured_images_in_rss.php
+#. Description of the plugin
+msgid ""
+"Outputs images in your RSS feed to Mailchimp, Infusionsoft, Hubspot, and "
+"other services that use RSS feed data for content marketing."
+msgstr ""
+"Képek megjelenítése az RSS-feedben a Mailchimp, Infusionsoft, Hubspot és "
+"más, RSS-feed adatokat használó tartalommarketing szolgáltatások számára."
+
+#: featured_images_in_rss.php
+#. Author of the plugin
+msgid "5 Star Plugins"
+msgstr "5 Csillagos Bővítmények"
+
+#: featured_images_in_rss.php
+#. Author URI of the plugin
+msgid "https://5starplugins.com/"
+msgstr "https://5starplugins.com/"
+
+#: featured_images_in_rss.php:152
+msgid "Featured Images In RSS"
+msgstr "Kiemelt képek az RSS-ben"
+
+#: featured_images_in_rss.php:185
+msgid "Featured Images in RSS"
+msgstr "Kiemelt képek az RSS-ben"
+
+#: featured_images_in_rss.php:196
+msgid "RSS image size:"
+msgstr "RSS kép mérete:"
+
+#: featured_images_in_rss.php:208
+msgid "Width"
+msgstr "Szélesség"
+
+#: featured_images_in_rss.php:210
+msgid "Height"
+msgstr "Magasság"
+
+#: featured_images_in_rss.php:215
+#, php-format
+msgid ""
+"(Looking for other sizes? Set the size of images for your website globally "
+"using <a href=\"%1$s\" target=\"_blank\">Media Options</a>. Then <a "
+"href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a> for it to take "
+"effect.)"
+msgstr ""
+"(Keres más méreteket? Állítsd be a képek méretét globálisan a weboldaladhoz "
+"<a href=\"%1$s\" target=\"_blank\">Média Opciók</a> segítségével. Ezután <a "
+"href=\"%2$s\" target=\"_blank\">Generálj újra miniatúrákat</a> az "
+"érvényesítéshez.)"
+
+#: featured_images_in_rss.php:221
+msgid "RSS image alignment:"
+msgstr "RSS kép igazítása:"
+
+#: featured_images_in_rss.php:224
+msgid "Image Left Above Text"
+msgstr "Kép balra a szöveg felett"
+
+#: featured_images_in_rss.php:225
+msgid "Image Centered Above Text"
+msgstr "Kép középen a szöveg felett"
+
+#: featured_images_in_rss.php:226
+msgid "Image Left Text Wraps"
+msgstr "Kép balra, a szöveg körbefonja"
+
+#: featured_images_in_rss.php:227
+msgid "Image Right Text Wraps"
+msgstr "Kép jobbra, a szöveg körbefonja"
+
+#: featured_images_in_rss.php:232
+msgid "RSS image to text padding:"
+msgstr "RSS kép és szöveg közötti távolság:"
+
+#: featured_images_in_rss.php:238
+msgid "Clickable images:"
+msgstr "Kattintható képek:"
+
+#: featured_images_in_rss.php:241
+msgid "Select to enable linked images to posts."
+msgstr "Válaszd ki a linkelt képek engedélyezéséhez a bejegyzésekhez."
+
+#: featured_images_in_rss.php:242
+msgid "Outputs additional HTML surrounding the image."
+msgstr "További HTML kimenet, amely körülveszi a képet."
+
+#: featured_images_in_rss.php:250
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: featured_images_in_rss.php:260
+#, php-format
+msgid ""
+"If you like this plugin, please <a href=\"%s\" target=_blank>Rate and "
+"Review</a> it so others can benefit too."
+msgstr ""
+"Ha tetszik ez a bővítmény, kérlek <a href=\"%s\" target=_blank>Értékeld és "
+"véleményezd</a>, hogy mások is profitálhassanak belőle."
+
+#: featured_images_in_rss.php:261
+#, php-format
+msgid ""
+"Still not seeing images in your feed? Verify featured images are set. Clear "
+"your browser and any server caches. Using Feedburner? Be sure to also <a "
+"href=\"%s\" target=_blank>Ping Feedburner</a> so it refreshes your feed."
+msgstr ""
+"Még mindig nem látod a képeket a feedben? Ellenőrizd, hogy a kiemelt képek "
+"be vannak állítva. Tisztítsd meg a böngésződ és bármilyen szerver "
+"gyorsítótárat. Használod a Feedburnert? Ne felejtsd el <a href=\"%s\" "
+"target=_blank>Pingelni a Feedburnert</a> is, hogy frissítse a feded."
+
+#: featured_images_in_rss.php:262
+#, php-format
+msgid ""
+"To view your site’s raw RSS feed, click here: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+msgstr ""
+"A webhelyed nyers RSS feedjének megtekintéséhez kattints ide: <a "
+"href=\"%s/feed/\" target=_blank>/feed/</a>"
+
+#: featured_images_in_rss.php:263
+#, php-format
+msgid ""
+"Free and premium FAQ and Support contact form available at <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a>"
+msgstr ""
+"Ingyenes és prémium GYIK és Támogatás kapcsolatfelvételi űrlap elérhető "
+"itt: <a href=\"%s\" target=_blank>support.5starplugins.com</a>"
+
+#: featured_images_in_rss.php:264
+#, php-format
+msgid ""
+"Developed and supported by <a href=\"%s\" target=_blank>5 Star Plugins</a> "
+"in San Diego, CA"
+msgstr ""
+"Fejlesztette és támogatja <a href=\"%s\" target=_blank>5 Star Plugins</a> "
+"San Diegóban, CA"
+
+#: featured_images_in_rss.php:312
+#, php-format
+msgid ""
+"<strong>Enjoying Featured Images In RSS?</strong> Please <a href=\"%s\" "
+"target=\"_blank\">leave a 5-star review</a> to support us! 🙌"
+msgstr ""
+"<strong>Még mindig élvezed a Kiemelt Képeket az RSS-ben?</strong> Kérlek <a "
+"href=\"%s\" target=\"_blank\">hagyj egy 5 csillagos értékelést</a> a "
+"támogatásunkért! 🙌"
+
+#: featured_images_in_rss.php:315
+msgid "Remind me later"
+msgstr "Emlékeztess később"
+
+#: featured_images_in_rss.php:315
+msgid "Dismiss"
+msgstr "Elvetés"
+
+#: featured_images_in_rss.php:331
+msgid "Settings"
+msgstr "Beállítások"
+
+#: featured_images_in_rss.php:342
+msgid "Please rate and review"
+msgstr "Kérlek értékeld és véleményezd"
+
+#: featured_images_in_rss.php:401
+#, php-format
+msgid "Unlock Premium Features%s"
+msgstr "Prémium funkciók feloldása%s"
+
+#: featured_images_in_rss.php:401
+#: includes/premium/premium.php:195
+msgid "(Free Trial)"
+msgstr "(Ingyenes próba)"
+
+#: featured_images_in_rss.php:413
+#: featured_images_in_rss.php:443
+msgid "Upgrade Now"
+msgstr "Frissítés most"
+
+#: featured_images_in_rss.php:420
+msgid "14 Day Free Trial"
+msgstr "14 napos ingyenes próba"
+
+#: featured_images_in_rss.php:509
+msgid "Premium Support"
+msgstr "Prémium támogatás"
+
+#: featured_images_in_rss.php:509
+msgid "Get help from WordPress experts based in the US."
+msgstr "Segítséget kérhet amerikai WordPress szakértőktől."
+
+#: featured_images_in_rss.php:510
+msgid "Custom Sizing"
+msgstr "Egyedi méretezés"
+
+#: featured_images_in_rss.php:510
+msgid "Define your custom image size for RSS feeds."
+msgstr "Határozza meg az egyedi képméretet az RSS hírcsatornákhoz."
+
+#: featured_images_in_rss.php:511
+msgid "Media and Enclosure Tags"
+msgstr "Média és melléklet címkék"
+
+#: featured_images_in_rss.php:511
+msgid "Place images anywhere in email design."
+msgstr "Helyezzen el képeket bárhol az e-mail dizájnban."
+
+#: featured_images_in_rss.php:512
+msgid "Media Tag Images Only"
+msgstr "Csak média címkék képei"
+
+#: featured_images_in_rss.php:512
+msgid "Fix duplicate images issues when using media tags."
+msgstr "Javítsa a duplikált képeket, ha média címkéket használ."
+
+#: featured_images_in_rss.php:513
+msgid "Feature Body Image"
+msgstr "Kiemelt testkép"
+
+#: featured_images_in_rss.php:513
+msgid "Use the first body image in RSS feeds."
+msgstr "Használja az első testképet az RSS hírcsatornákban."
+
+#: featured_images_in_rss.php:514
+msgid "In-Feed Ads"
+msgstr "Hírcsatornán belüli hirdetések"
+
+#: featured_images_in_rss.php:514
+msgid "Insert text or HTML messages, ads, or links in the feed."
+msgstr ""
+"Szöveg vagy HTML üzenetek, hirdetések vagy linkek beillesztése a "
+"hírcsatornába."
+
+#: featured_images_in_rss.php:515
+#: includes/premium/premium.php:256
+msgid "Exclude Categories"
+msgstr "Kategóriák kizárása"
+
+#: featured_images_in_rss.php:515
+msgid "Exclude unwanted RSS content such as the \"Featured\" category."
+msgstr "Zárja ki a nem kívánt RSS tartalmakat, mint például a \"Kiemelt\" kategória."
+
+#: featured_images_in_rss.php:516
+msgid "Feed Delay"
+msgstr "Hírcsatorna késleltetés"
+
+#: featured_images_in_rss.php:516
+msgid "Time buffer to safeguard mistakes from new posts instantly broadcasting."
+msgstr ""
+"Időbuffer a hibák védelme érdekében, hogy az új bejegyzések azonnal ne "
+"jelenjenek meg."
+
+#: featured_images_in_rss.php:517
+#: includes/premium/premium.php:228
+msgid "Disable Responsive Images"
+msgstr "Reszponzív képek letiltása"
+
+#: featured_images_in_rss.php:517
+msgid "Fix broken images in certain readers and Mailchimp preview."
+msgstr "Javítsa a törött képeket bizonyos olvasókban és a Mailchimp előnézetében."
+
+#: includes/premium/premium.php:129
+msgid "Click to select categories to exclude"
+msgstr "Kattintson a kizárni kívánt kategóriák kiválasztásához"
+
+#: includes/premium/premium.php:195
+#, php-format
+msgid "Premium Features%s"
+msgstr "Prémium funkciók%s"
+
+#: includes/premium/premium.php:198
+msgid "Use first image in body in RSS feed"
+msgstr "Használja az első képet a testben az RSS hírcsatornában"
+
+#: includes/premium/premium.php:201
+msgid "Enable first image"
+msgstr "Első kép engedélyezése"
+
+#: includes/premium/premium.php:202
+msgid "Use this option for themes that do not support Featured Images."
+msgstr ""
+"Használja ezt az opciót olyan témákhoz, amelyek nem támogatják a kiemelt "
+"képeket."
+
+#: includes/premium/premium.php:207
+msgid "Media Tag"
+msgstr "Média címke"
+
+#: includes/premium/premium.php:210
+msgid "Enable media tag images"
+msgstr "Média címkék képeinek engedélyezése"
+
+#: includes/premium/premium.php:211
+msgid "Outputs post thumbnails inside the &lt;media:content ... &gt; tag"
+msgstr ""
+"Közzéteszi a bejegyzés miniatűrjeit az &lt;media:content ... &gt; címke "
+"belsejében"
+
+#: includes/premium/premium.php:214
+msgid "Use only media tag images"
+msgstr "Csak média címkék képeit használja"
+
+#: includes/premium/premium.php:215
+msgid ""
+"If Media Tag is enabled, this can help prevent duplicate images by no "
+"longer prepending the post's featured image in the content/description."
+msgstr ""
+"Ha a média címke engedélyezve van, ez segíthet megelőzni a duplikált "
+"képeket azáltal, hogy már nem előzi meg a bejegyzés kiemelt képét a "
+"tartalomban/leírásban."
+
+#: includes/premium/premium.php:220
+msgid "Enclosure Tag"
+msgstr "Környezet címke"
+
+#: includes/premium/premium.php:223
+msgid "Enable enclosure tag"
+msgstr "Környezet címke engedélyezése"
+
+#: includes/premium/premium.php:224
+msgid "Outputs post thumbnails inside &lt;enclosure&gt; tags."
+msgstr "A bejegyzések előnézeti képeit &lt;enclosure&gt; címkék között jeleníti meg."
+
+#: includes/premium/premium.php:231
+msgid "Disable responsive images under RSS feeds."
+msgstr "A reszponzív képek letiltása RSS hírcsatornák alatt."
+
+#: includes/premium/premium.php:235
+msgid "Pre-Feed Content"
+msgstr "Elő-feed tartalom"
+
+#: includes/premium/premium.php:238
+#: includes/premium/premium.php:245
+msgid "HTML is allowed. This will display on every post."
+msgstr "HTML megengedett. Ez minden bejegyzésnél megjelenik."
+
+#: includes/premium/premium.php:242
+msgid "Post-Feed Content"
+msgstr "Bejegyzés utáni tartalom"
+
+#: includes/premium/premium.php:249
+msgid "Publish Delay"
+msgstr "Közzétételi késleltetés"
+
+#: includes/premium/premium.php:251
+msgid "minute(s)"
+msgstr "perc(ek)"
+
+#: includes/premium/premium.php:252
+msgid ""
+"Delays the publishing of the feed after post is published. Leave empty to "
+"publish immediately."
+msgstr ""
+"Késlelteti a hírcsatorna közzétételét, miután a bejegyzés megjelent. Hagyja "
+"üresen az azonnali közzétételhez."
+
+#: includes/premium/premium.php:259
+msgid "Leave empty to display featured images in posts from all categories."
+msgstr ""
+"Hagyja üresen a kiemelt képek megjelenítéséhez a bejegyzésekben minden "
+"kategóriából."

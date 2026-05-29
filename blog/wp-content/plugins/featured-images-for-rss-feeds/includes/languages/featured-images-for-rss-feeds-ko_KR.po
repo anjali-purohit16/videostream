@@ -1,0 +1,372 @@
+# Copyright (C) 2025 5 Star Plugins
+# This file is distributed under the same license as the Featured Images in RSS for Mailchimp & More plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Images in RSS for Mailchimp & More 1.7\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/featured-images-for-rss\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-15T04:25:46+00:00\n"
+"PO-Revision-Date: 2025-10-15 04:59+0000\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: featured-images-for-rss-feeds\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko-KR\n"
+
+#: featured_images_in_rss.php
+#. Plugin Name of the plugin
+msgid "Featured Images in RSS for Mailchimp & More"
+msgstr "Mailchimp 및 기타 용도를 위한 RSS의 추천 이미지"
+
+#: featured_images_in_rss.php
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+msgstr "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+
+#: featured_images_in_rss.php
+#. Description of the plugin
+msgid ""
+"Outputs images in your RSS feed to Mailchimp, Infusionsoft, Hubspot, and "
+"other services that use RSS feed data for content marketing."
+msgstr ""
+"RSS 피드의 이미지를 Mailchimp, Infusionsoft, Hubspot 및 콘텐츠 마케팅을 위해 RSS 피드 데이터를 "
+"사용하는 기타 서비스로 출력합니다."
+
+#: featured_images_in_rss.php
+#. Author of the plugin
+msgid "5 Star Plugins"
+msgstr "5 스타 플러그인"
+
+#: featured_images_in_rss.php
+#. Author URI of the plugin
+msgid "https://5starplugins.com/"
+msgstr "https://5starplugins.com/"
+
+#: featured_images_in_rss.php:152
+msgid "Featured Images In RSS"
+msgstr "RSS의 추천 이미지"
+
+#: featured_images_in_rss.php:185
+msgid "Featured Images in RSS"
+msgstr "RSS의 추천 이미지"
+
+#: featured_images_in_rss.php:196
+msgid "RSS image size:"
+msgstr "RSS 이미지 크기:"
+
+#: featured_images_in_rss.php:208
+msgid "Width"
+msgstr "너비"
+
+#: featured_images_in_rss.php:210
+msgid "Height"
+msgstr "높이"
+
+#: featured_images_in_rss.php:215
+#, php-format
+msgid ""
+"(Looking for other sizes? Set the size of images for your website globally "
+"using <a href=\"%1$s\" target=\"_blank\">Media Options</a>. Then <a "
+"href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a> for it to take "
+"effect.)"
+msgstr ""
+"(다른 크기를 찾고 계신가요? <a href=\"%1$s\" target=\"_blank\">미디어 옵션</a>을 사용하여 웹사이트의 "
+"이미지 크기를 전역적으로 설정하세요. 그런 다음 <a href=\"%2$s\" target=\"_blank\">썸네일 재생성</a>을 "
+"하여 적용되도록 하세요.)"
+
+#: featured_images_in_rss.php:221
+msgid "RSS image alignment:"
+msgstr "RSS 이미지 정렬:"
+
+#: featured_images_in_rss.php:224
+msgid "Image Left Above Text"
+msgstr "이미지 왼쪽 텍스트 위"
+
+#: featured_images_in_rss.php:225
+msgid "Image Centered Above Text"
+msgstr "이미지 중앙 텍스트 위"
+
+#: featured_images_in_rss.php:226
+msgid "Image Left Text Wraps"
+msgstr "이미지 왼쪽 텍스트 랩"
+
+#: featured_images_in_rss.php:227
+msgid "Image Right Text Wraps"
+msgstr "이미지 오른쪽 텍스트 랩"
+
+#: featured_images_in_rss.php:232
+msgid "RSS image to text padding:"
+msgstr "RSS 이미지와 텍스트 간의 패딩:"
+
+#: featured_images_in_rss.php:238
+msgid "Clickable images:"
+msgstr "클릭 가능한 이미지:"
+
+#: featured_images_in_rss.php:241
+msgid "Select to enable linked images to posts."
+msgstr "게시물에 링크된 이미지를 활성화하려면 선택하세요."
+
+#: featured_images_in_rss.php:242
+msgid "Outputs additional HTML surrounding the image."
+msgstr "이미지를 둘러싼 추가 HTML을 출력합니다."
+
+#: featured_images_in_rss.php:250
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: featured_images_in_rss.php:260
+#, php-format
+msgid ""
+"If you like this plugin, please <a href=\"%s\" target=_blank>Rate and "
+"Review</a> it so others can benefit too."
+msgstr ""
+"이 플러그인이 마음에 드시면 <a href=\"%s\" target=_blank>평가 및 리뷰</a>를 남겨 다른 사람들도 혜택을 받을 "
+"수 있도록 도와주세요."
+
+#: featured_images_in_rss.php:261
+#, php-format
+msgid ""
+"Still not seeing images in your feed? Verify featured images are set. Clear "
+"your browser and any server caches. Using Feedburner? Be sure to also <a "
+"href=\"%s\" target=_blank>Ping Feedburner</a> so it refreshes your feed."
+msgstr ""
+"여전히 피드에서 이미지를 보지 못하고 계신가요? 추천 이미지가 설정되어 있는지 확인하세요. 브라우저 및 서버 캐시를 지우세요. "
+"Feedburner를 사용하고 계신가요? <a href=\"%s\" target=_blank>Feedburner에 핑</a>을 보내어 "
+"피드를 새로 고치도록 하세요."
+
+#: featured_images_in_rss.php:262
+#, php-format
+msgid ""
+"To view your site’s raw RSS feed, click here: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+msgstr "사이트의 원시 RSS 피드를 보려면 여기를 클릭하세요: <a href=\"%s/feed/\" target=_blank>/feed/</a>"
+
+#: featured_images_in_rss.php:263
+#, php-format
+msgid ""
+"Free and premium FAQ and Support contact form available at <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a>"
+msgstr ""
+"무료 및 프리미엄 FAQ와 지원 문의 양식은 <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a>에서 이용 가능합니다."
+
+#: featured_images_in_rss.php:264
+#, php-format
+msgid ""
+"Developed and supported by <a href=\"%s\" target=_blank>5 Star Plugins</a> "
+"in San Diego, CA"
+msgstr "CA 샌디에이고의 <a href=\"%s\" target=_blank>5 스타 플러그인</a>이 개발 및 지원합니다."
+
+#: featured_images_in_rss.php:312
+#, php-format
+msgid ""
+"<strong>Enjoying Featured Images In RSS?</strong> Please <a href=\"%s\" "
+"target=\"_blank\">leave a 5-star review</a> to support us! 🙌"
+msgstr ""
+"<strong>RSS에서 추천 이미지를 즐기고 계신가요?</strong> 저희를 지원하기 위해 <a href=\"%s\" "
+"target=\"_blank\">5성 리뷰를 남겨주세요</a>! 🙌"
+
+#: featured_images_in_rss.php:315
+msgid "Remind me later"
+msgstr "나중에 알림"
+
+#: featured_images_in_rss.php:315
+msgid "Dismiss"
+msgstr "해제"
+
+#: featured_images_in_rss.php:331
+msgid "Settings"
+msgstr "설정"
+
+#: featured_images_in_rss.php:342
+msgid "Please rate and review"
+msgstr "평가 및 리뷰 부탁드립니다"
+
+#: featured_images_in_rss.php:401
+#, php-format
+msgid "Unlock Premium Features%s"
+msgstr "프리미엄 기능 잠금 해제%s"
+
+#: featured_images_in_rss.php:401
+#: includes/premium/premium.php:195
+msgid "(Free Trial)"
+msgstr "(무료 체험)"
+
+#: featured_images_in_rss.php:413
+#: featured_images_in_rss.php:443
+msgid "Upgrade Now"
+msgstr "지금 업그레이드"
+
+#: featured_images_in_rss.php:420
+msgid "14 Day Free Trial"
+msgstr "14일 무료 사용 해보기"
+
+#: featured_images_in_rss.php:509
+msgid "Premium Support"
+msgstr "프리미엄 지원"
+
+#: featured_images_in_rss.php:509
+msgid "Get help from WordPress experts based in the US."
+msgstr "미국에 기반한 WordPress 전문가에게 도움을 받으세요."
+
+#: featured_images_in_rss.php:510
+msgid "Custom Sizing"
+msgstr "맞춤 크기"
+
+#: featured_images_in_rss.php:510
+msgid "Define your custom image size for RSS feeds."
+msgstr "RSS 피드를 위한 맞춤 이미지 크기를 정의하세요."
+
+#: featured_images_in_rss.php:511
+msgid "Media and Enclosure Tags"
+msgstr "미디어 및 인클로저 태그"
+
+#: featured_images_in_rss.php:511
+msgid "Place images anywhere in email design."
+msgstr "이메일 디자인의 어디에나 이미지를 배치하세요."
+
+#: featured_images_in_rss.php:512
+msgid "Media Tag Images Only"
+msgstr "미디어 태그 이미지만"
+
+#: featured_images_in_rss.php:512
+msgid "Fix duplicate images issues when using media tags."
+msgstr "미디어 태그 사용 시 중복 이미지 문제를 수정합니다."
+
+#: featured_images_in_rss.php:513
+msgid "Feature Body Image"
+msgstr "기능 본문 이미지"
+
+#: featured_images_in_rss.php:513
+msgid "Use the first body image in RSS feeds."
+msgstr "RSS 피드에서 첫 번째 본문 이미지를 사용하세요."
+
+#: featured_images_in_rss.php:514
+msgid "In-Feed Ads"
+msgstr "피드 내 광고"
+
+#: featured_images_in_rss.php:514
+msgid "Insert text or HTML messages, ads, or links in the feed."
+msgstr "피드에 텍스트나 HTML 메시지, 광고 또는 링크를 삽입하세요."
+
+#: featured_images_in_rss.php:515
+#: includes/premium/premium.php:256
+msgid "Exclude Categories"
+msgstr "카테고리 제외"
+
+#: featured_images_in_rss.php:515
+msgid "Exclude unwanted RSS content such as the \"Featured\" category."
+msgstr "\"추천\" 카테고리와 같은 원치 않는 RSS 콘텐츠를 제외하세요."
+
+#: featured_images_in_rss.php:516
+msgid "Feed Delay"
+msgstr "피드 지연"
+
+#: featured_images_in_rss.php:516
+msgid "Time buffer to safeguard mistakes from new posts instantly broadcasting."
+msgstr "새 게시물이 즉시 방송되는 실수를 방지하기 위한 시간 버퍼입니다."
+
+#: featured_images_in_rss.php:517
+#: includes/premium/premium.php:228
+msgid "Disable Responsive Images"
+msgstr "반응형 이미지 비활성화"
+
+#: featured_images_in_rss.php:517
+msgid "Fix broken images in certain readers and Mailchimp preview."
+msgstr "특정 리더와 Mailchimp 미리보기에서 깨진 이미지를 수정합니다."
+
+#: includes/premium/premium.php:129
+msgid "Click to select categories to exclude"
+msgstr "제외할 카테고리를 선택하려면 클릭하세요"
+
+#: includes/premium/premium.php:195
+#, php-format
+msgid "Premium Features%s"
+msgstr "프리미엄 기능%s"
+
+#: includes/premium/premium.php:198
+msgid "Use first image in body in RSS feed"
+msgstr "RSS 피드의 본문에서 첫 번째 이미지 사용"
+
+#: includes/premium/premium.php:201
+msgid "Enable first image"
+msgstr "첫 번째 이미지 활성화"
+
+#: includes/premium/premium.php:202
+msgid "Use this option for themes that do not support Featured Images."
+msgstr "추천 이미지를 지원하지 않는 테마에 대해 이 옵션을 사용하세요."
+
+#: includes/premium/premium.php:207
+msgid "Media Tag"
+msgstr "미디어 태그"
+
+#: includes/premium/premium.php:210
+msgid "Enable media tag images"
+msgstr "미디어 태그 이미지를 활성화"
+
+#: includes/premium/premium.php:211
+msgid "Outputs post thumbnails inside the &lt;media:content ... &gt; tag"
+msgstr "&lt;media:content ... &gt; 태그 내에 게시물 썸네일을 출력합니다"
+
+#: includes/premium/premium.php:214
+msgid "Use only media tag images"
+msgstr "미디어 태그 이미지만 사용"
+
+#: includes/premium/premium.php:215
+msgid ""
+"If Media Tag is enabled, this can help prevent duplicate images by no "
+"longer prepending the post's featured image in the content/description."
+msgstr ""
+"미디어 태그가 활성화된 경우, 콘텐츠/설명에 게시물의 추천 이미지를 더 이상 앞에 붙이지 않아 중복 이미지를 방지하는 데 도움이 될 수 "
+"있습니다."
+
+#: includes/premium/premium.php:220
+msgid "Enclosure Tag"
+msgstr "둘러싸는 태그"
+
+#: includes/premium/premium.php:223
+msgid "Enable enclosure tag"
+msgstr "둘러싸는 태그 활성화"
+
+#: includes/premium/premium.php:224
+msgid "Outputs post thumbnails inside &lt;enclosure&gt; tags."
+msgstr "포스트 썸네일을 &lt;enclosure&gt; 태그 안에 출력합니다."
+
+#: includes/premium/premium.php:231
+msgid "Disable responsive images under RSS feeds."
+msgstr "RSS 피드에서 반응형 이미지 비활성화."
+
+#: includes/premium/premium.php:235
+msgid "Pre-Feed Content"
+msgstr "피드 전 콘텐츠"
+
+#: includes/premium/premium.php:238
+#: includes/premium/premium.php:245
+msgid "HTML is allowed. This will display on every post."
+msgstr "HTML이 허용됩니다. 이는 모든 포스트에 표시됩니다."
+
+#: includes/premium/premium.php:242
+msgid "Post-Feed Content"
+msgstr "포스트 후 콘텐츠"
+
+#: includes/premium/premium.php:249
+msgid "Publish Delay"
+msgstr "발행 지연"
+
+#: includes/premium/premium.php:251
+msgid "minute(s)"
+msgstr "분"
+
+#: includes/premium/premium.php:252
+msgid ""
+"Delays the publishing of the feed after post is published. Leave empty to "
+"publish immediately."
+msgstr "포스트가 발행된 후 피드의 발행을 지연시킵니다. 즉시 발행하려면 비워 두십시오."
+
+#: includes/premium/premium.php:259
+msgid "Leave empty to display featured images in posts from all categories."
+msgstr "모든 카테고리의 포스트에서 대표 이미지를 표시하려면 비워 두십시오."

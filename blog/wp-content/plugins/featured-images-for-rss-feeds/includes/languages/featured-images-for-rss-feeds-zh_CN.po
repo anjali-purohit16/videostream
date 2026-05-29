@@ -1,0 +1,364 @@
+# Copyright (C) 2025 5 Star Plugins
+# This file is distributed under the same license as the Featured Images in RSS for Mailchimp & More plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Images in RSS for Mailchimp & More 1.7\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/featured-images-for-rss\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-15T04:25:46+00:00\n"
+"PO-Revision-Date: 2025-10-15 04:59+0000\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: featured-images-for-rss-feeds\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh-CN\n"
+
+#: featured_images_in_rss.php
+#. Plugin Name of the plugin
+msgid "Featured Images in RSS for Mailchimp & More"
+msgstr "RSS 中的特色图像 for Mailchimp & More"
+
+#: featured_images_in_rss.php
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+msgstr "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+
+#: featured_images_in_rss.php
+#. Description of the plugin
+msgid ""
+"Outputs images in your RSS feed to Mailchimp, Infusionsoft, Hubspot, and "
+"other services that use RSS feed data for content marketing."
+msgstr "将图像输出到您的 RSS 源以供 Mailchimp、Infusionsoft、Hubspot 和其他使用 RSS 源数据进行内容营销的服务。"
+
+#: featured_images_in_rss.php
+#. Author of the plugin
+msgid "5 Star Plugins"
+msgstr "5 星插件"
+
+#: featured_images_in_rss.php
+#. Author URI of the plugin
+msgid "https://5starplugins.com/"
+msgstr "https://5starplugins.com/"
+
+#: featured_images_in_rss.php:152
+msgid "Featured Images In RSS"
+msgstr "RSS中的特色图片"
+
+#: featured_images_in_rss.php:185
+msgid "Featured Images in RSS"
+msgstr "RSS中的特色图片"
+
+#: featured_images_in_rss.php:196
+msgid "RSS image size:"
+msgstr "RSS 图像大小："
+
+#: featured_images_in_rss.php:208
+msgid "Width"
+msgstr "宽度"
+
+#: featured_images_in_rss.php:210
+msgid "Height"
+msgstr "高度"
+
+#: featured_images_in_rss.php:215
+#, php-format
+msgid ""
+"(Looking for other sizes? Set the size of images for your website globally "
+"using <a href=\"%1$s\" target=\"_blank\">Media Options</a>. Then <a "
+"href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a> for it to take "
+"effect.)"
+msgstr ""
+"(想要其他大小吗？使用 <a href=\"%1$s\" target=\"_blank\">媒体选项</a> 全局设置您网站的图像大小。然后 <a "
+"href=\"%2$s\" target=\"_blank\">重新生成缩略图</a> 使其生效。)"
+
+#: featured_images_in_rss.php:221
+msgid "RSS image alignment:"
+msgstr "RSS 图像对齐："
+
+#: featured_images_in_rss.php:224
+msgid "Image Left Above Text"
+msgstr "图像位于文本上方左侧"
+
+#: featured_images_in_rss.php:225
+msgid "Image Centered Above Text"
+msgstr "图像位于文本上方居中"
+
+#: featured_images_in_rss.php:226
+msgid "Image Left Text Wraps"
+msgstr "图像位于文本左侧换行"
+
+#: featured_images_in_rss.php:227
+msgid "Image Right Text Wraps"
+msgstr "图像位于文本右侧换行"
+
+#: featured_images_in_rss.php:232
+msgid "RSS image to text padding:"
+msgstr "RSS 图像与文本的内边距："
+
+#: featured_images_in_rss.php:238
+msgid "Clickable images:"
+msgstr "可点击的图像："
+
+#: featured_images_in_rss.php:241
+msgid "Select to enable linked images to posts."
+msgstr "选择以启用链接图像到帖子。"
+
+#: featured_images_in_rss.php:242
+msgid "Outputs additional HTML surrounding the image."
+msgstr "输出围绕图像的额外 HTML。"
+
+#: featured_images_in_rss.php:250
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: featured_images_in_rss.php:260
+#, php-format
+msgid ""
+"If you like this plugin, please <a href=\"%s\" target=_blank>Rate and "
+"Review</a> it so others can benefit too."
+msgstr "如果您喜欢这个插件，请 <a href=\"%s\" target=_blank>评分和评论</a>，让其他人也能受益。"
+
+#: featured_images_in_rss.php:261
+#, php-format
+msgid ""
+"Still not seeing images in your feed? Verify featured images are set. Clear "
+"your browser and any server caches. Using Feedburner? Be sure to also <a "
+"href=\"%s\" target=_blank>Ping Feedburner</a> so it refreshes your feed."
+msgstr ""
+"仍然没有在您的源中看到图像？请验证特色图像是否已设置。清除您的浏览器和任何服务器缓存。使用 Feedburner 吗？确保也 <a "
+"href=\"%s\" target=_blank>Ping Feedburner</a> 以刷新您的源。"
+
+#: featured_images_in_rss.php:262
+#, php-format
+msgid ""
+"To view your site’s raw RSS feed, click here: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+msgstr "要查看您网站的原始 RSS 源，请点击这里：<a href=\"%s/feed/\" target=_blank>/feed/</a>"
+
+#: featured_images_in_rss.php:263
+#, php-format
+msgid ""
+"Free and premium FAQ and Support contact form available at <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a>"
+msgstr ""
+"免费和优质 FAQ 和支持联系表格可在 <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a> 获取"
+
+#: featured_images_in_rss.php:264
+#, php-format
+msgid ""
+"Developed and supported by <a href=\"%s\" target=_blank>5 Star Plugins</a> "
+"in San Diego, CA"
+msgstr "由 <a href=\"%s\" target=_blank>5 星插件</a> 在加利福尼亚州圣地亚哥开发和支持"
+
+#: featured_images_in_rss.php:312
+#, php-format
+msgid ""
+"<strong>Enjoying Featured Images In RSS?</strong> Please <a href=\"%s\" "
+"target=\"_blank\">leave a 5-star review</a> to support us! 🙌"
+msgstr ""
+"<strong>喜欢 RSS 中的特色图像吗？</strong> 请 <a href=\"%s\" target=\"_blank\">留下 5 "
+"星评论</a> 来支持我们！ 🙌"
+
+#: featured_images_in_rss.php:315
+msgid "Remind me later"
+msgstr "稍后提醒我"
+
+#: featured_images_in_rss.php:315
+msgid "Dismiss"
+msgstr "解除"
+
+#: featured_images_in_rss.php:331
+msgid "Settings"
+msgstr "设置"
+
+#: featured_images_in_rss.php:342
+msgid "Please rate and review"
+msgstr "请评分和评论"
+
+#: featured_images_in_rss.php:401
+#, php-format
+msgid "Unlock Premium Features%s"
+msgstr "解锁高级功能%s"
+
+#: featured_images_in_rss.php:401
+#: includes/premium/premium.php:195
+msgid "(Free Trial)"
+msgstr "(免费试用)"
+
+#: featured_images_in_rss.php:413
+#: featured_images_in_rss.php:443
+msgid "Upgrade Now"
+msgstr "立即升级"
+
+#: featured_images_in_rss.php:420
+msgid "14 Day Free Trial"
+msgstr "14天免费试用"
+
+#: featured_images_in_rss.php:509
+msgid "Premium Support"
+msgstr "高级支持"
+
+#: featured_images_in_rss.php:509
+msgid "Get help from WordPress experts based in the US."
+msgstr "获取来自美国的WordPress专家的帮助。"
+
+#: featured_images_in_rss.php:510
+msgid "Custom Sizing"
+msgstr "自定义大小"
+
+#: featured_images_in_rss.php:510
+msgid "Define your custom image size for RSS feeds."
+msgstr "为RSS提要定义自定义图像大小。"
+
+#: featured_images_in_rss.php:511
+msgid "Media and Enclosure Tags"
+msgstr "媒体和封装标签"
+
+#: featured_images_in_rss.php:511
+msgid "Place images anywhere in email design."
+msgstr "在电子邮件设计中随处放置图像。"
+
+#: featured_images_in_rss.php:512
+msgid "Media Tag Images Only"
+msgstr "仅媒体标签图像"
+
+#: featured_images_in_rss.php:512
+msgid "Fix duplicate images issues when using media tags."
+msgstr "修复使用媒体标签时的重复图像问题。"
+
+#: featured_images_in_rss.php:513
+msgid "Feature Body Image"
+msgstr "特色正文图像"
+
+#: featured_images_in_rss.php:513
+msgid "Use the first body image in RSS feeds."
+msgstr "在RSS提要中使用第一张正文图像。"
+
+#: featured_images_in_rss.php:514
+msgid "In-Feed Ads"
+msgstr "提要内广告"
+
+#: featured_images_in_rss.php:514
+msgid "Insert text or HTML messages, ads, or links in the feed."
+msgstr "在提要中插入文本或HTML消息、广告或链接。"
+
+#: featured_images_in_rss.php:515
+#: includes/premium/premium.php:256
+msgid "Exclude Categories"
+msgstr "排除类别"
+
+#: featured_images_in_rss.php:515
+msgid "Exclude unwanted RSS content such as the \"Featured\" category."
+msgstr "排除不需要的RSS内容，例如“特色”类别。"
+
+#: featured_images_in_rss.php:516
+msgid "Feed Delay"
+msgstr "提要延迟"
+
+#: featured_images_in_rss.php:516
+msgid "Time buffer to safeguard mistakes from new posts instantly broadcasting."
+msgstr "时间缓冲，以防止新帖子立即广播时出现错误。"
+
+#: featured_images_in_rss.php:517
+#: includes/premium/premium.php:228
+msgid "Disable Responsive Images"
+msgstr "禁用响应式图像"
+
+#: featured_images_in_rss.php:517
+msgid "Fix broken images in certain readers and Mailchimp preview."
+msgstr "修复某些阅读器和Mailchimp预览中的破损图像。"
+
+#: includes/premium/premium.php:129
+msgid "Click to select categories to exclude"
+msgstr "点击选择要排除的类别"
+
+#: includes/premium/premium.php:195
+#, php-format
+msgid "Premium Features%s"
+msgstr "高级功能%s"
+
+#: includes/premium/premium.php:198
+msgid "Use first image in body in RSS feed"
+msgstr "在RSS提要中使用正文中的第一张图像"
+
+#: includes/premium/premium.php:201
+msgid "Enable first image"
+msgstr "启用第一张图像"
+
+#: includes/premium/premium.php:202
+msgid "Use this option for themes that do not support Featured Images."
+msgstr "对不支持特色图像的主题使用此选项。"
+
+#: includes/premium/premium.php:207
+msgid "Media Tag"
+msgstr "媒体标签"
+
+#: includes/premium/premium.php:210
+msgid "Enable media tag images"
+msgstr "启用媒体标签图像"
+
+#: includes/premium/premium.php:211
+msgid "Outputs post thumbnails inside the &lt;media:content ... &gt; tag"
+msgstr "在&lt;media:content ... &gt;标签内输出帖子缩略图"
+
+#: includes/premium/premium.php:214
+msgid "Use only media tag images"
+msgstr "仅使用媒体标签图像"
+
+#: includes/premium/premium.php:215
+msgid ""
+"If Media Tag is enabled, this can help prevent duplicate images by no "
+"longer prepending the post's featured image in the content/description."
+msgstr "如果启用了媒体标签，这可以通过不再在内容/描述中前置帖子的特色图像来帮助防止重复图像。"
+
+#: includes/premium/premium.php:220
+msgid "Enclosure Tag"
+msgstr "封闭标签"
+
+#: includes/premium/premium.php:223
+msgid "Enable enclosure tag"
+msgstr "启用封闭标签"
+
+#: includes/premium/premium.php:224
+msgid "Outputs post thumbnails inside &lt;enclosure&gt; tags."
+msgstr "在 &lt;enclosure&gt; 标签内输出帖子缩略图。"
+
+#: includes/premium/premium.php:231
+msgid "Disable responsive images under RSS feeds."
+msgstr "禁用 RSS 源下的响应式图片。"
+
+#: includes/premium/premium.php:235
+msgid "Pre-Feed Content"
+msgstr "预先内容"
+
+#: includes/premium/premium.php:238
+#: includes/premium/premium.php:245
+msgid "HTML is allowed. This will display on every post."
+msgstr "允许使用 HTML。这将在每个帖子中显示。"
+
+#: includes/premium/premium.php:242
+msgid "Post-Feed Content"
+msgstr "后续内容"
+
+#: includes/premium/premium.php:249
+msgid "Publish Delay"
+msgstr "发布延迟"
+
+#: includes/premium/premium.php:251
+msgid "minute(s)"
+msgstr "分钟"
+
+#: includes/premium/premium.php:252
+msgid ""
+"Delays the publishing of the feed after post is published. Leave empty to "
+"publish immediately."
+msgstr "在帖子发布后延迟源的发布。留空以立即发布。"
+
+#: includes/premium/premium.php:259
+msgid "Leave empty to display featured images in posts from all categories."
+msgstr "留空以在所有类别的帖子中显示特色图片。"

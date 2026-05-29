@@ -1,0 +1,384 @@
+# Copyright (C) 2025 5 Star Plugins
+# This file is distributed under the same license as the Featured Images in RSS for Mailchimp & More plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Images in RSS for Mailchimp & More 1.7\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/featured-images-for-rss\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-15T04:25:46+00:00\n"
+"PO-Revision-Date: 2025-10-15 04:59+0000\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: featured-images-for-rss-feeds\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv-SE\n"
+
+#: featured_images_in_rss.php
+#. Plugin Name of the plugin
+msgid "Featured Images in RSS for Mailchimp & More"
+msgstr "Utvalda bilder i RSS för Mailchimp & Mer"
+
+#: featured_images_in_rss.php
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+msgstr "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+
+#: featured_images_in_rss.php
+#. Description of the plugin
+msgid ""
+"Outputs images in your RSS feed to Mailchimp, Infusionsoft, Hubspot, and "
+"other services that use RSS feed data for content marketing."
+msgstr ""
+"Visar bilder i din RSS-flöde till Mailchimp, Infusionsoft, Hubspot och "
+"andra tjänster som använder RSS-flödesdata för innehållsmarknadsföring."
+
+#: featured_images_in_rss.php
+#. Author of the plugin
+msgid "5 Star Plugins"
+msgstr "5 Star Plugins"
+
+#: featured_images_in_rss.php
+#. Author URI of the plugin
+msgid "https://5starplugins.com/"
+msgstr "https://5starplugins.com/"
+
+#: featured_images_in_rss.php:152
+msgid "Featured Images In RSS"
+msgstr "Utvalda bilder i RSS"
+
+#: featured_images_in_rss.php:185
+msgid "Featured Images in RSS"
+msgstr "Utvalda bilder i RSS"
+
+#: featured_images_in_rss.php:196
+msgid "RSS image size:"
+msgstr "RSS bildstorlek:"
+
+#: featured_images_in_rss.php:208
+msgid "Width"
+msgstr "Bredd"
+
+#: featured_images_in_rss.php:210
+msgid "Height"
+msgstr "Höjd"
+
+#: featured_images_in_rss.php:215
+#, php-format
+msgid ""
+"(Looking for other sizes? Set the size of images for your website globally "
+"using <a href=\"%1$s\" target=\"_blank\">Media Options</a>. Then <a "
+"href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a> for it to take "
+"effect.)"
+msgstr ""
+"(Söker du efter andra storlekar? Ställ in storleken på bilder för din "
+"webbplats globalt med <a href=\"%1$s\" "
+"target=\"_blank\">Medievalalternativ</a>. Sedan <a href=\"%2$s\" "
+"target=\"_blank\">Regenerera miniatyrer</a> för att det ska träda i kraft.)"
+
+#: featured_images_in_rss.php:221
+msgid "RSS image alignment:"
+msgstr "RSS bildjustering:"
+
+#: featured_images_in_rss.php:224
+msgid "Image Left Above Text"
+msgstr "Bild vänster ovanför text"
+
+#: featured_images_in_rss.php:225
+msgid "Image Centered Above Text"
+msgstr "Bild centrerad ovanför text"
+
+#: featured_images_in_rss.php:226
+msgid "Image Left Text Wraps"
+msgstr "Bild vänster text omger"
+
+#: featured_images_in_rss.php:227
+msgid "Image Right Text Wraps"
+msgstr "Bild höger text omger"
+
+#: featured_images_in_rss.php:232
+msgid "RSS image to text padding:"
+msgstr "RSS bild till text utfyllnad:"
+
+#: featured_images_in_rss.php:238
+msgid "Clickable images:"
+msgstr "Klickbara bilder:"
+
+#: featured_images_in_rss.php:241
+msgid "Select to enable linked images to posts."
+msgstr "Välj för att aktivera länkade bilder till inlägg."
+
+#: featured_images_in_rss.php:242
+msgid "Outputs additional HTML surrounding the image."
+msgstr "Visar ytterligare HTML som omger bilden."
+
+#: featured_images_in_rss.php:250
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: featured_images_in_rss.php:260
+#, php-format
+msgid ""
+"If you like this plugin, please <a href=\"%s\" target=_blank>Rate and "
+"Review</a> it so others can benefit too."
+msgstr ""
+"Om du gillar den här pluginen, vänligen <a href=\"%s\" "
+"target=_blank>Betygsätt och recensera</a> den så att andra också kan dra "
+"nytta av den."
+
+#: featured_images_in_rss.php:261
+#, php-format
+msgid ""
+"Still not seeing images in your feed? Verify featured images are set. Clear "
+"your browser and any server caches. Using Feedburner? Be sure to also <a "
+"href=\"%s\" target=_blank>Ping Feedburner</a> so it refreshes your feed."
+msgstr ""
+"Ser du fortfarande inga bilder i ditt flöde? Verifiera att utvalda bilder "
+"är inställda. Rensa din webbläsare och eventuella servercacheminnen. "
+"Använder du Feedburner? Se till att också <a href=\"%s\" "
+"target=_blank>Pinga Feedburner</a> så att det uppdaterar ditt flöde."
+
+#: featured_images_in_rss.php:262
+#, php-format
+msgid ""
+"To view your site’s raw RSS feed, click here: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+msgstr ""
+"För att visa din webbplats råa RSS-flöde, klicka här: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+
+#: featured_images_in_rss.php:263
+#, php-format
+msgid ""
+"Free and premium FAQ and Support contact form available at <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a>"
+msgstr ""
+"Gratis och premium FAQ och supportkontaktformulär tillgängligt på <a "
+"href=\"%s\" target=_blank>support.5starplugins.com</a>"
+
+#: featured_images_in_rss.php:264
+#, php-format
+msgid ""
+"Developed and supported by <a href=\"%s\" target=_blank>5 Star Plugins</a> "
+"in San Diego, CA"
+msgstr ""
+"Utvecklad och stödd av <a href=\"%s\" target=_blank>5 Star Plugins</a> i "
+"San Diego, CA"
+
+#: featured_images_in_rss.php:312
+#, php-format
+msgid ""
+"<strong>Enjoying Featured Images In RSS?</strong> Please <a href=\"%s\" "
+"target=\"_blank\">leave a 5-star review</a> to support us! 🙌"
+msgstr ""
+"<strong>Gillar du utvalda bilder i RSS?</strong> Vänligen <a href=\"%s\" "
+"target=\"_blank\">lämna en 5-stjärnig recension</a> för att stödja oss! 🙌"
+
+#: featured_images_in_rss.php:315
+msgid "Remind me later"
+msgstr "Påminn mig senare"
+
+#: featured_images_in_rss.php:315
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: featured_images_in_rss.php:331
+msgid "Settings"
+msgstr "Inställningar"
+
+#: featured_images_in_rss.php:342
+msgid "Please rate and review"
+msgstr "Vänligen betygsätt och recensera"
+
+#: featured_images_in_rss.php:401
+#, php-format
+msgid "Unlock Premium Features%s"
+msgstr "Lås upp premiumfunktioner%s"
+
+#: featured_images_in_rss.php:401
+#: includes/premium/premium.php:195
+msgid "(Free Trial)"
+msgstr "(Gratis provperiod)"
+
+#: featured_images_in_rss.php:413
+#: featured_images_in_rss.php:443
+msgid "Upgrade Now"
+msgstr "Uppgradera nu"
+
+#: featured_images_in_rss.php:420
+msgid "14 Day Free Trial"
+msgstr "14 dagars gratis provperiod"
+
+#: featured_images_in_rss.php:509
+msgid "Premium Support"
+msgstr "Premiumsupport"
+
+#: featured_images_in_rss.php:509
+msgid "Get help from WordPress experts based in the US."
+msgstr "Få hjälp av WordPress-experter baserade i USA."
+
+#: featured_images_in_rss.php:510
+msgid "Custom Sizing"
+msgstr "Anpassad storlek"
+
+#: featured_images_in_rss.php:510
+msgid "Define your custom image size for RSS feeds."
+msgstr "Definiera din anpassade bildstorlek för RSS-flöden."
+
+#: featured_images_in_rss.php:511
+msgid "Media and Enclosure Tags"
+msgstr "Media- och bilagsetiketter"
+
+#: featured_images_in_rss.php:511
+msgid "Place images anywhere in email design."
+msgstr "Placera bilder var som helst i e-postdesign."
+
+#: featured_images_in_rss.php:512
+msgid "Media Tag Images Only"
+msgstr "Mediaetikett endast bilder"
+
+#: featured_images_in_rss.php:512
+msgid "Fix duplicate images issues when using media tags."
+msgstr "Åtgärda problem med duplicerade bilder när du använder mediaetiketter."
+
+#: featured_images_in_rss.php:513
+msgid "Feature Body Image"
+msgstr "Funktionens kroppsbild"
+
+#: featured_images_in_rss.php:513
+msgid "Use the first body image in RSS feeds."
+msgstr "Använd den första kroppsbilden i RSS-flöden."
+
+#: featured_images_in_rss.php:514
+msgid "In-Feed Ads"
+msgstr "In-feed annonser"
+
+#: featured_images_in_rss.php:514
+msgid "Insert text or HTML messages, ads, or links in the feed."
+msgstr "Infoga text eller HTML-meddelanden, annonser eller länkar i flödet."
+
+#: featured_images_in_rss.php:515
+#: includes/premium/premium.php:256
+msgid "Exclude Categories"
+msgstr "Exkludera kategorier"
+
+#: featured_images_in_rss.php:515
+msgid "Exclude unwanted RSS content such as the \"Featured\" category."
+msgstr "Exkludera oönskat RSS-innehåll som kategorin \"Utvald\"."
+
+#: featured_images_in_rss.php:516
+msgid "Feed Delay"
+msgstr "Flödesfördröjning"
+
+#: featured_images_in_rss.php:516
+msgid "Time buffer to safeguard mistakes from new posts instantly broadcasting."
+msgstr ""
+"Tidsbuffer för att skydda mot misstag från nya inlägg som omedelbart sänds "
+"ut."
+
+#: featured_images_in_rss.php:517
+#: includes/premium/premium.php:228
+msgid "Disable Responsive Images"
+msgstr "Inaktivera responsiva bilder"
+
+#: featured_images_in_rss.php:517
+msgid "Fix broken images in certain readers and Mailchimp preview."
+msgstr "Åtgärda trasiga bilder i vissa läsare och Mailchimp-förhandsgranskning."
+
+#: includes/premium/premium.php:129
+msgid "Click to select categories to exclude"
+msgstr "Klicka för att välja kategorier att exkludera"
+
+#: includes/premium/premium.php:195
+#, php-format
+msgid "Premium Features%s"
+msgstr "Premiumfunktioner%s"
+
+#: includes/premium/premium.php:198
+msgid "Use first image in body in RSS feed"
+msgstr "Använd första bilden i kroppen i RSS-flödet"
+
+#: includes/premium/premium.php:201
+msgid "Enable first image"
+msgstr "Aktivera första bilden"
+
+#: includes/premium/premium.php:202
+msgid "Use this option for themes that do not support Featured Images."
+msgstr "Använd detta alternativ för teman som inte stödjer utvalda bilder."
+
+#: includes/premium/premium.php:207
+msgid "Media Tag"
+msgstr "Mediaetikett"
+
+#: includes/premium/premium.php:210
+msgid "Enable media tag images"
+msgstr "Aktivera mediaetikettbilder"
+
+#: includes/premium/premium.php:211
+msgid "Outputs post thumbnails inside the &lt;media:content ... &gt; tag"
+msgstr "Visar inläggsminiatyrer inuti &lt;media:content ... &gt; etiketten"
+
+#: includes/premium/premium.php:214
+msgid "Use only media tag images"
+msgstr "Använd endast mediaetikettbilder"
+
+#: includes/premium/premium.php:215
+msgid ""
+"If Media Tag is enabled, this can help prevent duplicate images by no "
+"longer prepending the post's featured image in the content/description."
+msgstr ""
+"Om mediaetikett är aktiverad kan detta hjälpa till att förhindra "
+"duplicerade bilder genom att inte längre föra in inläggets utvalda bild i "
+"innehållet/beskrivningen."
+
+#: includes/premium/premium.php:220
+msgid "Enclosure Tag"
+msgstr "Inneslutningstagg"
+
+#: includes/premium/premium.php:223
+msgid "Enable enclosure tag"
+msgstr "Aktivera inneslutningstagg"
+
+#: includes/premium/premium.php:224
+msgid "Outputs post thumbnails inside &lt;enclosure&gt; tags."
+msgstr "Visar inläggsminiatyrer inom &lt;enclosure&gt; taggar."
+
+#: includes/premium/premium.php:231
+msgid "Disable responsive images under RSS feeds."
+msgstr "Inaktivera responsiva bilder under RSS-flöden."
+
+#: includes/premium/premium.php:235
+msgid "Pre-Feed Content"
+msgstr "Förhandsinnehåll"
+
+#: includes/premium/premium.php:238
+#: includes/premium/premium.php:245
+msgid "HTML is allowed. This will display on every post."
+msgstr "HTML är tillåtet. Detta kommer att visas på varje inlägg."
+
+#: includes/premium/premium.php:242
+msgid "Post-Feed Content"
+msgstr "Innehåll efter inlägg"
+
+#: includes/premium/premium.php:249
+msgid "Publish Delay"
+msgstr "Publiceringsfördröjning"
+
+#: includes/premium/premium.php:251
+msgid "minute(s)"
+msgstr "minut(er)"
+
+#: includes/premium/premium.php:252
+msgid ""
+"Delays the publishing of the feed after post is published. Leave empty to "
+"publish immediately."
+msgstr ""
+"Fördröjer publiceringen av flödet efter att inlägget har publicerats. Lämna "
+"tomt för att publicera omedelbart."
+
+#: includes/premium/premium.php:259
+msgid "Leave empty to display featured images in posts from all categories."
+msgstr "Lämna tomt för att visa utvalda bilder i inlägg från alla kategorier."

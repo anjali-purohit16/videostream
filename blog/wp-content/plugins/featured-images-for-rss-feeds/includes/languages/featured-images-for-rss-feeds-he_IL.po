@@ -1,0 +1,376 @@
+# Copyright (C) 2025 5 Star Plugins
+# This file is distributed under the same license as the Featured Images in RSS for Mailchimp & More plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Images in RSS for Mailchimp & More 1.7\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/featured-images-for-rss\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-15T04:25:46+00:00\n"
+"PO-Revision-Date: 2025-10-15 04:59+0000\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: featured-images-for-rss-feeds\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: he-IL\n"
+
+#: featured_images_in_rss.php
+#. Plugin Name of the plugin
+msgid "Featured Images in RSS for Mailchimp & More"
+msgstr "תמונות מוצגות ב-RSS עבור Mailchimp & יותר"
+
+#: featured_images_in_rss.php
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+msgstr "http://wordpress.org/plugins/featured-images-for-rss-feeds/"
+
+#: featured_images_in_rss.php
+#. Description of the plugin
+msgid ""
+"Outputs images in your RSS feed to Mailchimp, Infusionsoft, Hubspot, and "
+"other services that use RSS feed data for content marketing."
+msgstr ""
+"מוציא תמונות מה-RSS שלך ל-Mailchimp, Infusionsoft, Hubspot ושירותים נוספים "
+"המשתמשים בנתוני RSS לשיווק תוכן."
+
+#: featured_images_in_rss.php
+#. Author of the plugin
+msgid "5 Star Plugins"
+msgstr "תוספי 5 כוכבים"
+
+#: featured_images_in_rss.php
+#. Author URI of the plugin
+msgid "https://5starplugins.com/"
+msgstr "https://5starplugins.com/"
+
+#: featured_images_in_rss.php:152
+msgid "Featured Images In RSS"
+msgstr "תמונות מומלצות ב-RSS"
+
+#: featured_images_in_rss.php:185
+msgid "Featured Images in RSS"
+msgstr "תמונות מומלצות ב-RSS"
+
+#: featured_images_in_rss.php:196
+msgid "RSS image size:"
+msgstr "גודל תמונת RSS:"
+
+#: featured_images_in_rss.php:208
+msgid "Width"
+msgstr "רוחב"
+
+#: featured_images_in_rss.php:210
+msgid "Height"
+msgstr "גובה"
+
+#: featured_images_in_rss.php:215
+#, php-format
+msgid ""
+"(Looking for other sizes? Set the size of images for your website globally "
+"using <a href=\"%1$s\" target=\"_blank\">Media Options</a>. Then <a "
+"href=\"%2$s\" target=\"_blank\">Regenerate Thumbnails</a> for it to take "
+"effect.)"
+msgstr ""
+"(מחפש גדלים נוספים? קבע את גודל התמונות לאתר שלך באופן גלובלי באמצעות <a "
+"href=\"%1$s\" target=\"_blank\">אפשרויות מדיה</a>. לאחר מכן <a "
+"href=\"%2$s\" target=\"_blank\">חדש תמונות ממוזערות</a> כך שזה ייכנס לתוקף.)"
+
+#: featured_images_in_rss.php:221
+msgid "RSS image alignment:"
+msgstr "יישור תמונת RSS:"
+
+#: featured_images_in_rss.php:224
+msgid "Image Left Above Text"
+msgstr "תמונה משמאל מעל הטקסט"
+
+#: featured_images_in_rss.php:225
+msgid "Image Centered Above Text"
+msgstr "תמונה ממורכזת מעל הטקסט"
+
+#: featured_images_in_rss.php:226
+msgid "Image Left Text Wraps"
+msgstr "תמונה משמאל עם עטיפת טקסט"
+
+#: featured_images_in_rss.php:227
+msgid "Image Right Text Wraps"
+msgstr "תמונה מימין עם עטיפת טקסט"
+
+#: featured_images_in_rss.php:232
+msgid "RSS image to text padding:"
+msgstr "ריווח תמונת RSS מהטקסט:"
+
+#: featured_images_in_rss.php:238
+msgid "Clickable images:"
+msgstr "תמונות ניתנות ללחיצה:"
+
+#: featured_images_in_rss.php:241
+msgid "Select to enable linked images to posts."
+msgstr "בחר כדי לאפשר תמונות מקושרות לפוסטים."
+
+#: featured_images_in_rss.php:242
+msgid "Outputs additional HTML surrounding the image."
+msgstr "מוציא HTML נוסף סביב התמונה."
+
+#: featured_images_in_rss.php:250
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: featured_images_in_rss.php:260
+#, php-format
+msgid ""
+"If you like this plugin, please <a href=\"%s\" target=_blank>Rate and "
+"Review</a> it so others can benefit too."
+msgstr ""
+"אם אתה אוהב את התוסף הזה, בבקשה <a href=\"%s\" target=_blank>דרג ובקר</a> "
+"אותו כך אחרים יוכלו להפיק תועלת גם."
+
+#: featured_images_in_rss.php:261
+#, php-format
+msgid ""
+"Still not seeing images in your feed? Verify featured images are set. Clear "
+"your browser and any server caches. Using Feedburner? Be sure to also <a "
+"href=\"%s\" target=_blank>Ping Feedburner</a> so it refreshes your feed."
+msgstr ""
+"עדיין לא רואה תמונות ב-RSS שלך? ודא שהתמונות המוצגות מוגדרות. נקה את הדפדפן "
+"שלך ואת כל המטמונים של השרת. משתמש ב-Feedburner? ודא גם <a href=\"%s\" "
+"target=_blank>Ping Feedburner</a> כך שזה יפרסם מחדש את ה-RSS שלך."
+
+#: featured_images_in_rss.php:262
+#, php-format
+msgid ""
+"To view your site’s raw RSS feed, click here: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+msgstr ""
+"כדי לצפות ב-RSS הגולמי של האתר שלך, לחץ כאן: <a href=\"%s/feed/\" "
+"target=_blank>/feed/</a>"
+
+#: featured_images_in_rss.php:263
+#, php-format
+msgid ""
+"Free and premium FAQ and Support contact form available at <a href=\"%s\" "
+"target=_blank>support.5starplugins.com</a>"
+msgstr ""
+"שאלות נפוצות ויצירת קשר עם תמיכה זמינות בגרסה חינמית ובגרסה בתשלום ב-<a "
+"href=\"%s\" target=_blank>support.5starplugins.com</a>"
+
+#: featured_images_in_rss.php:264
+#, php-format
+msgid ""
+"Developed and supported by <a href=\"%s\" target=_blank>5 Star Plugins</a> "
+"in San Diego, CA"
+msgstr ""
+"פותח ומטופל על ידי <a href=\"%s\" target=_blank>5 Star Plugins</a> בסן "
+"דייגו, קליפורניה"
+
+#: featured_images_in_rss.php:312
+#, php-format
+msgid ""
+"<strong>Enjoying Featured Images In RSS?</strong> Please <a href=\"%s\" "
+"target=\"_blank\">leave a 5-star review</a> to support us! 🙌"
+msgstr ""
+"<strong>נהנה מתמונות מוצגות ב-RSS?</strong> בבקשה <a href=\"%s\" "
+"target=\"_blank\">השאר ביקורת של 5 כוכבים</a> כדי לתמוך בנו! 🙌"
+
+#: featured_images_in_rss.php:315
+msgid "Remind me later"
+msgstr "תזכיר לי מאוחר יותר"
+
+#: featured_images_in_rss.php:315
+msgid "Dismiss"
+msgstr "סגור"
+
+#: featured_images_in_rss.php:331
+msgid "Settings"
+msgstr "הגדרות"
+
+#: featured_images_in_rss.php:342
+msgid "Please rate and review"
+msgstr "בבקשה דרגו ובקרו"
+
+#: featured_images_in_rss.php:401
+#, php-format
+msgid "Unlock Premium Features%s"
+msgstr "שחרר תכונות פרימיום%s"
+
+#: featured_images_in_rss.php:401
+#: includes/premium/premium.php:195
+msgid "(Free Trial)"
+msgstr "(ניסיון חינם)"
+
+#: featured_images_in_rss.php:413
+#: featured_images_in_rss.php:443
+msgid "Upgrade Now"
+msgstr "שדרג עכשיו"
+
+#: featured_images_in_rss.php:420
+msgid "14 Day Free Trial"
+msgstr "ניסיון חינם של 14 יום"
+
+#: featured_images_in_rss.php:509
+msgid "Premium Support"
+msgstr "תמיכה פרימיום"
+
+#: featured_images_in_rss.php:509
+msgid "Get help from WordPress experts based in the US."
+msgstr "קבל עזרה ממומחי וורדפרס הממוקמים בארה\"ב."
+
+#: featured_images_in_rss.php:510
+msgid "Custom Sizing"
+msgstr "גודל מותאם אישית"
+
+#: featured_images_in_rss.php:510
+msgid "Define your custom image size for RSS feeds."
+msgstr "הגדר את גודל התמונה המותאם אישית שלך עבור פיד RSS."
+
+#: featured_images_in_rss.php:511
+msgid "Media and Enclosure Tags"
+msgstr "תגי מדיה והצמדה"
+
+#: featured_images_in_rss.php:511
+msgid "Place images anywhere in email design."
+msgstr "מניחים תמונות בכל מקום בעיצוב המייל."
+
+#: featured_images_in_rss.php:512
+msgid "Media Tag Images Only"
+msgstr "תמונות תגי מדיה בלבד"
+
+#: featured_images_in_rss.php:512
+msgid "Fix duplicate images issues when using media tags."
+msgstr "תיקן בעיות של תמונות כפולות כאשר משתמשים בתגי מדיה."
+
+#: featured_images_in_rss.php:513
+msgid "Feature Body Image"
+msgstr "תמונה ראשית של התכונה"
+
+#: featured_images_in_rss.php:513
+msgid "Use the first body image in RSS feeds."
+msgstr "השתמש בתמונה הראשית הראשונה בפיד RSS."
+
+#: featured_images_in_rss.php:514
+msgid "In-Feed Ads"
+msgstr "פרסומות בתוך הפיד"
+
+#: featured_images_in_rss.php:514
+msgid "Insert text or HTML messages, ads, or links in the feed."
+msgstr "הכנס טקסט או הודעות HTML, פרסומות או קישורים בפיד."
+
+#: featured_images_in_rss.php:515
+#: includes/premium/premium.php:256
+msgid "Exclude Categories"
+msgstr "החרגת קטגוריות"
+
+#: featured_images_in_rss.php:515
+msgid "Exclude unwanted RSS content such as the \"Featured\" category."
+msgstr "החרג תוכן RSS לא רצוי כגון הקטגוריה \"מומלצת\"."
+
+#: featured_images_in_rss.php:516
+msgid "Feed Delay"
+msgstr "עיכוב בפיד"
+
+#: featured_images_in_rss.php:516
+msgid "Time buffer to safeguard mistakes from new posts instantly broadcasting."
+msgstr "זמן חיץ כדי להגן על שגיאות מפרסומים חדשים שמשודרים מיידית."
+
+#: featured_images_in_rss.php:517
+#: includes/premium/premium.php:228
+msgid "Disable Responsive Images"
+msgstr "השבת תמונות רספונסיביות"
+
+#: featured_images_in_rss.php:517
+msgid "Fix broken images in certain readers and Mailchimp preview."
+msgstr "תיקן תמונות שבורות במספר קוראים ובתצוגה המקדימה של Mailchimp."
+
+#: includes/premium/premium.php:129
+msgid "Click to select categories to exclude"
+msgstr "לחץ כדי לבחור קטגוריות להחרגה"
+
+#: includes/premium/premium.php:195
+#, php-format
+msgid "Premium Features%s"
+msgstr "תכונות פרימיום%s"
+
+#: includes/premium/premium.php:198
+msgid "Use first image in body in RSS feed"
+msgstr "השתמש בתמונה הראשונה בגוף בפיד RSS"
+
+#: includes/premium/premium.php:201
+msgid "Enable first image"
+msgstr "אפשר את התמונה הראשונה"
+
+#: includes/premium/premium.php:202
+msgid "Use this option for themes that do not support Featured Images."
+msgstr "השתמש באפשרות זו עבור ערכות נושא שאינן תומכות בתמונות מומלצות."
+
+#: includes/premium/premium.php:207
+msgid "Media Tag"
+msgstr "תג מדיה"
+
+#: includes/premium/premium.php:210
+msgid "Enable media tag images"
+msgstr "אפשר תמונות תגי מדיה"
+
+#: includes/premium/premium.php:211
+msgid "Outputs post thumbnails inside the &lt;media:content ... &gt; tag"
+msgstr "פלט תמונות ממוזערות של פוסטים בתוך התג &lt;media:content ... &gt;"
+
+#: includes/premium/premium.php:214
+msgid "Use only media tag images"
+msgstr "השתמש רק בתמונות תגי מדיה"
+
+#: includes/premium/premium.php:215
+msgid ""
+"If Media Tag is enabled, this can help prevent duplicate images by no "
+"longer prepending the post's featured image in the content/description."
+msgstr ""
+"אם תג המדיה מופעל, זה יכול לעזור במניעת תמונות כפולות על ידי כך שלא יתווסף "
+"יותר התמונה המוצגת של הפוסט בתוכן/תיאור."
+
+#: includes/premium/premium.php:220
+msgid "Enclosure Tag"
+msgstr "תג סגירה"
+
+#: includes/premium/premium.php:223
+msgid "Enable enclosure tag"
+msgstr "אפשר תג סגירה"
+
+#: includes/premium/premium.php:224
+msgid "Outputs post thumbnails inside &lt;enclosure&gt; tags."
+msgstr "מוציא תצוגות של פוסטים בתוך תגי &lt;enclosure&gt;."
+
+#: includes/premium/premium.php:231
+msgid "Disable responsive images under RSS feeds."
+msgstr "אל תאפשר תמונות תגובה מתחת ל-RSS."
+
+#: includes/premium/premium.php:235
+msgid "Pre-Feed Content"
+msgstr "תוכן לפני הפיד"
+
+#: includes/premium/premium.php:238
+#: includes/premium/premium.php:245
+msgid "HTML is allowed. This will display on every post."
+msgstr "HTML מותר. זה יופיע בכל פוסט."
+
+#: includes/premium/premium.php:242
+msgid "Post-Feed Content"
+msgstr "תוכן אחרי הפיד"
+
+#: includes/premium/premium.php:249
+msgid "Publish Delay"
+msgstr "עיכוב פרסום"
+
+#: includes/premium/premium.php:251
+msgid "minute(s)"
+msgstr "דקה(ות)"
+
+#: includes/premium/premium.php:252
+msgid ""
+"Delays the publishing of the feed after post is published. Leave empty to "
+"publish immediately."
+msgstr "מעכב את פרסום הפיד לאחר שהפוסט פורסם. השאר ריק כדי לפרסם מיידית."
+
+#: includes/premium/premium.php:259
+msgid "Leave empty to display featured images in posts from all categories."
+msgstr "השאר ריק כדי להציג תמונות מוצגות בפוסטים מכל הקטגוריות."
